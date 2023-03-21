@@ -49,24 +49,3 @@ function hideData(link) {
     }
 }
 
-// function scrollHide(link) {
-//     if (link === 'home') {
-//         document.getElementById('home-second').style.display = 'block';
-//         document.getElementById('home-first').style.display = 'block';
-//         document.getElementById('aboutus-first').style.display = 'none';
-//         document.getElementById('aboutus-second').style.display = 'none';
-//         document.getElementById('client-stories-first').style.display = 'none';
-//     } else if (link === 'about') {
-//         document.getElementById('home-second').style.display = 'none';
-//         document.getElementById('home-first').style.display = 'none';
-//         document.getElementById('aboutus-first').style.display = 'block';
-//         document.getElementById('aboutus-second').style.display = 'block';
-//         document.getElementById('client-stories-first').style.display = 'none';
-//     } else if (link === 'client') {
-//         document.getElementById('home-second').style.display = 'none';
-//         document.getElementById('home-first').style.display = 'none';
-//         document.getElementById('aboutus-first').style.display = 'none';
-//         document.getElementById('aboutus-second').style.display = 'none';
-//         document.getElementById('client-stories-first').style.display = 'block';
-//     }
-// }
